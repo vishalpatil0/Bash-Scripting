@@ -1,0 +1,14 @@
+1. First line of script should be #! (shebang OR Hash Bang).
+
+2. With touch command you don't get execute permission.
+
+3. Comment format : start with #this is comment
+
+4. Variable
+    In shell there are 2 type of variable 
+    - System variable : created by OS : Upper case : e.g $BASH
+    - User defined variable : created by User: lower case
+    -Declaring a variable : name="vishal"
+    -Varialbe name cannot start with number.
+
+4. For taking input from user use 'read' command.
